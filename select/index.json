@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ぼくは人気者",
+  "base_artist": "ピーナッツくん",
+  "createdAt": "2026-03-08T09:58:08.775132Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ぼくは人気者",
+      "artist": "ピーナッツくん",
+      "has_synced": false,
+      "path": "select/pl_01_ぼくは人気者_ピーナッツくん.txt"
+    }
+  ]
+}
